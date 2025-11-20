@@ -24,34 +24,44 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 
 ### whois.com
-![Alt text](img/whois.com.png)
+<img width="836" height="850" alt="whois com" src="https://github.com/user-attachments/assets/1faa0361-6dbb-45c3-9ee0-8f50d182b1f9" />
+
 
 ### iplocator:
-![Alt text](img/iplocator.png)
+<img width="669" height="700" alt="iplocator" src="https://github.com/user-attachments/assets/7ec11bd5-eb21-4f5c-8161-28d1ba5da029" />
+
 
 ### webarchive:
-![Alt text](img/webarchive.png)
+<img width="1046" height="825" alt="webarchive" src="https://github.com/user-attachments/assets/f7f970c7-0956-46ec-889e-625aa822733d" />
+
 
 ### nmap:
-![Alt text](img/nmap.png)
+<img width="853" height="654" alt="nmap" src="https://github.com/user-attachments/assets/d80d26ae-de6e-467b-8d0e-3e99e8247ed0" />
+
 
 ### whatweb:
-![Alt text](img/whatweb.png)
+<img width="1918" height="279" alt="whatweb" src="https://github.com/user-attachments/assets/a6742d42-8511-4754-ba2e-f95ea5e9e625" />
+
 
 ### traceroute:
-![Alt text](img/traceroute.png)
+<img width="813" height="831" alt="traceroute" src="https://github.com/user-attachments/assets/4154bf0a-25fa-4411-9962-e5624186a8a8" />
+
 
 ### ping:
-![Alt text](img/ping.png)
+<img width="1055" height="802" alt="ping" src="https://github.com/user-attachments/assets/b978d260-6fa8-460a-89d5-4a773f170cc7" />
+
 
 ### netcat:
-![Alt text](img/netcat.png)
+<img width="786" height="162" alt="netcat" src="https://github.com/user-attachments/assets/69d9deb7-bc45-408c-bfd9-e98682677029" />
+
 
 ### UDP traceroute:
-![Alt text](<img/UDP traceroute.png>)
+<img width="766" height="475" alt="UDP traceroute" src="https://github.com/user-attachments/assets/f9bb05dd-e6f0-47dc-b815-b7863dd12159" />
+
 
 ### ICMP traceroute:
-![Alt text](<img/ICMP traceroute.png>)
+<img width="893" height="103" alt="ICMP traceroute" src="https://github.com/user-attachments/assets/deb63ccf-99e6-446a-8b1a-ebec0d0e248e" />
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
