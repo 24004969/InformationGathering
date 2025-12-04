@@ -1,4 +1,3 @@
-<img width="1920" height="1057" alt="image" src="https://github.com/user-attachments/assets/d8e6c45e-3e21-40e3-8bb2-1e41fd33d9fa" /># InformationGathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
